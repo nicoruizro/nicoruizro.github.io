@@ -139,7 +139,7 @@
 	}
 
 	body {
-		background: #242629;
+		background:blue;
 	}
 
 		body.loading *, body.loading *:before, body.loading *:after {
