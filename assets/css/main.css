@@ -1396,7 +1396,7 @@
 		-moz-user-select: none;
 		-ms-user-select: none;
 		-webkit-user-select: none;
-		background: #1f2224;
+		background: blue;
 		bottom: -1em;
 		height: 5em;
 		left: 0;
@@ -1474,7 +1474,7 @@
 						}
 
 						#header nav > ul > li a.active {
-							background-color: blue;
+							background-color: lightblue;
 						}
 
 	@media screen and (max-width: 736px) {
